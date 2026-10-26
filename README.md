@@ -4,7 +4,7 @@ Página de propuesta para Detailing World Window Cleaning (@detailingworld_co.pr
 
 ## Estado (26 oct 2026)
 - `index.html` = versión 2.1 del prototipo (en `trabajo`; `main` tiene la 2.0). Es un solo archivo: el video de la portada y las fotos van dentro (≈1.6 MB).
-- Ramas: `main` (lo que publica Netlify) y `trabajo` (avances, no gasta créditos).
+- Ramas: `main` (lo que publica Netlify, 15 créditos) y `trabajo` (avances; Netlify la arma como versión de rama en trabajo--detailingworldco.netlify.app, 0 créditos).
 
 ## Qué tiene
 - Preloader con el logo, que vuela al header; el hero aparece como un cristal sucio y un escurridor lo limpia.
