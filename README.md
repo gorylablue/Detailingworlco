@@ -10,7 +10,7 @@ Página de propuesta para Detailing World Window Cleaning (@detailingworld_co.pr
 - Preloader con el logo, que vuela al header; el hero aparece como un cristal sucio y un escurridor lo limpia.
 - Portada con video en loop.
 - Manifiesto claro que pasa por encima del hero, con palabras que se aclaran al bajar.
-- Ventana interactiva (v2.1): la persona limpia el cristal arrastrando el dedo o el mouse, o con el botón "Limpiar con escurridor". Ya no obliga a scrollear.
+- Ventana interactiva (v2.2, dibujada en SVG: marco de aluminio, palmas, montañas y mar con movimiento suave): la persona limpia el cristal arrastrando el dedo o el mouse, o con el botón "Limpiar con escurridor". Ya no obliga a scrollear.
 - Servicios con foto fija que cambia, galería horizontal y proceso con línea que se llena.
 - Cotización en 4 pasos que abre WhatsApp (wa.me/18632071514).
 
