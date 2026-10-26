@@ -1300,5 +1300,13 @@ section{position:relative}
   $('#qAgain').addEventListener('click', e => { e.preventDefault(); window.open(waUrl, '_blank', 'noopener'); });
 })();
 </script>
+
+<!-- En El Mapa: formulario oculto para las estadísticas del aviso (Netlify lo registra al publicar) -->
+<form name="enelmapa-estadisticas" data-netlify="true" netlify-honeypot="bot-field" hidden style="display:none" aria-hidden="true">
+  <input name="visita"><input name="visitante"><input name="nuevo"><input name="sitio"><input name="aparato">
+  <input name="vio"><input name="cerro"><input name="llamar"><input name="instagram"><input name="otra_propuesta"><input name="segundos">
+  <input name="bot-field">
+</form>
+<script src="/enelmapa-aviso.js" defer data-estadisticas="netlify" data-sitio="detailingworld" data-despues-de="#pre"></script>
 </body>
 </html>

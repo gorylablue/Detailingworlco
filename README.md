@@ -3,7 +3,7 @@
 Página de propuesta para Detailing World Window Cleaning (@detailingworld_co.pr), detallado profesional de cristales en Puerto Rico.
 
 ## Estado (26 oct 2026)
-- `index.html` = versión 2.1 del prototipo (en `trabajo`; `main` tiene la 2.0). Es un solo archivo: el video de la portada y las fotos van dentro (≈1.6 MB).
+- `index.html` = versión 2.2 del prototipo + aviso de En El Mapa (`data-sitio="detailingworld"`, espera a que se quite el preloader `#pre`). Publicada en `main` el 26 oct. Es un solo archivo: el video de la portada y las fotos van dentro (≈1.6 MB).
 - Ramas: `main` (lo que publica Netlify, 15 créditos) y `trabajo` (avances; Netlify la arma como versión de rama en trabajo--detailingworldco.netlify.app, 0 créditos).
 
 ## Qué tiene
@@ -17,5 +17,4 @@ Página de propuesta para Detailing World Window Cleaning (@detailingworld_co.pr
 ## Pendiente
 - Videos y fotos originales del negocio (las de ahora salen de capturas de Instagram).
 - Separar video e imágenes en archivos aparte con carga diferida.
-- Aviso de En El Mapa y estadísticas (ver `claude/enelmapa-aviso.md` en el proyecto).
 - Revisar en Safari de un iPhone real.
